@@ -1,2 +1,2 @@
-# Human-AGV-Collaboration-Simulator
+# Human-AGV_Collaboration_Simulator
 이 프로젝트는 스마트팩토리 환경에서 인간 작업자와 AGV 간의 협업을 시뮬레이션하여 경로 효율성과 작업 분배 최적화를 분석합니다. 가중치 기반의 경로 계획 알고리즘과 실시간 상호작용 모델을 통해 생산성 향상 및 안전성 강화를 목표로 합니다.
